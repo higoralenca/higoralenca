@@ -33,7 +33,7 @@
 
 ![higoralenca Github stats](https://github-readme-stats.vercel.app/api?username=higoralenca&show_icons=true&theme=tokyonight)
 
-## Tecnologia
+## Tecnologia / Ferramentas
 
 - Excel
 - Google Sheets
