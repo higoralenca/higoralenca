@@ -6,7 +6,7 @@
 
  Sempre gostei e reconheci a importância da multidisciplinaridade, por isso busquei desenvolver um portfólio bastante amplo, com diferentes ferramentas e plataformas atuando nas mais variadas áreas e situações. Desde o tradicional business intelligence, até análises de dados astronômicos e genéticos, por exemplo. 
  
- Procuro estar envolvido em quases tipos de projetos em Ciência de Dados. Como: 
+ Procuro estar envolvido em quases todos os tipos de projetos em Ciência de Dados. Como: 
 
  - Análises simples 
  - Classificação
@@ -33,7 +33,7 @@
 
 ![higoralenca Github stats](https://github-readme-stats.vercel.app/api?username=higoralenca&show_icons=true&theme=tokyonight)
 
-## Tecnologia / Ferramentas
+## Tecnologias / Ferramentas
 
 - Excel
 - Google Sheets
@@ -46,9 +46,3 @@
 - Looker Studio
 - AWS
 - Azure
-
-
-
-✅ Te convido à dar uma olhada nos meus repositórios e também no Insta da ADD.
-
-✅ Let´s play nos insights que podemos conseguir! 
