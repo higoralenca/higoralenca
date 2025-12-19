@@ -1,6 +1,6 @@
 ### Olá, me chamo Higor!  😀
 
- Sou Cientista de Dados e graduando em Análise e Desenvolvimento de Sistemas.
+ Sou Cientista de Dados.
 
  Também exploro minha veia empreendedora. Fundei a página ADD (Análise e Desenvolvimento de Dados) onde apresento meu trabalho e oferto meus serviços na modalidade freelancer.
 
